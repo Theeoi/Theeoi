@@ -4,7 +4,7 @@
 <p><br><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=theeoi&hide=stars&show_icons=true&theme=dracula&count_private=true&locale=en" alt="theeoi"/>
 </p>
 
-<p align="left">
+<p align="left" width="50%">
 🔭 I’m currently working on <b>my Master's thesis in Nanoscience</b>
 
 🌱 I’m currently learning **Python packaging and following CS50**
