@@ -20,4 +20,4 @@
 
 <p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=theeoi&show_icons=true&theme=dracula&locale=en&layout=compact&langs_count=6" alt="theeoi" /></p>
 
-<p>&nbsp;<img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=theeoi&hide=stars&show_icons=true&theme=dracula&count_private=true&locale=en" alt="theeoi" /></p>
+<p>&nbsp;<img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=theeoi&hide=stars&show_icons=true&theme=dracula&count_private=true&locale=en" alt="theeoi" /></p>
