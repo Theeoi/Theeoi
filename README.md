@@ -5,11 +5,11 @@
 </p>
 
 <p align="left" width="50%">
-🔭 I’m currently working on <b>my Master's thesis in Nanoscience</b>
+🔭 I’m currently working on <b>moving my website to a VPS</b>
 
-🌱 I’m currently learning **Python packaging and following CS50**
+🌱 I’m currently learning **how to setup a server and following CS50**
 
-👯 I’m looking to collaborate on **API related Python projects**
+👯 I’m looking to collaborate on **intermediate python development**
 
 📫 Reach me at **me@theodorblom.com**
 </p>
