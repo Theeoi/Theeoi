@@ -5,7 +5,7 @@
 </p>
 
 <p align="left" width="50%">
-🔭 I’m currently working on <b>moving my website to a VPS and developing a install script for my dotfiles and DE settings<\b>
+🔭 I’m currently working on <b>moving my website to a VPS and developing an install script for my dotfiles and DE settings</b>
 
 🌱 I’m currently learning **how to setup a server**
 
