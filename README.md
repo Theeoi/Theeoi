@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Theo! 👋</h1>
-<h3 align="center">Aspiring Junior Fullstack Developer</h3>
+<h3 align="center">Loves the magic of Code</h3>
 
 <p><br><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=theeoi&hide=stars&show_icons=true&theme=dracula&count_private=true&locale=en" alt="theeoi"/>
 </p>
