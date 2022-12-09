@@ -5,9 +5,9 @@
 </p>
 
 <p align="left" width="50%">
-🔭 I’m currently working on <b>moving my website to a VPS</b>
+🔭 I’m currently working on **moving my website to a VPS and developing a install script for my dotfiles and DE settings**
 
-🌱 I’m currently learning **how to setup a server and following CS50**
+🌱 I’m currently learning **how to setup a server**
 
 👯 I’m looking to collaborate on **intermediate python development**
 
