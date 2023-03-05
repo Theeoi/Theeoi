@@ -1,15 +1,15 @@
 <h1 align="center">Hello there, I'm Theo! 👋</h1>
-<h3 align="center">Curiosity gets the best of me</h3>
+<h3 align="center">Hobbyist pythoneer</h3>
 
 <p><br><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=theeoi&hide=stars&show_icons=true&theme=dracula&count_private=true&locale=en" alt="theeoi"/>
 </p>
 
 <p align="left" width="50%">
-🔭 I’m currently working on <b>moving my website to a VPS and developing an install script for my dotfiles and DE settings</b>
+🔭 I’m currently working on <b>my personal website www.theodorblom.com</b>
 
-🌱 I’m currently learning **how to setup a server**
+🌱 I’m currently learning **web development and maintainence**
 
-👯 I’m looking to collaborate on **intermediate python development**
+👯 I’m looking to collaborate on **anything python related. Open to suggestions!**
 
 📫 Reach me at **me@theodorblom.com**
 </p>
