@@ -5,11 +5,11 @@
 </p>
 
 <p align="left" width="50%">
-🔭 I’m currently working on <b>a smart module using MicroPython</b>
+🔭 I’m currently working on <b>my package for achieving recurring tasks in Notion</b>
 
-🌱 I’m currently learning **serial communication**
+🌱 I’m currently learning **PiPy Packaging**
 
-👯 I’m looking to collaborate on **my DunGen project or similar**
+👯 I’m looking to collaborate on **productivity workflow tools**
 
 📫 Reach me at **me@theodorblom.com**
 </p>
