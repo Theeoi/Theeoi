@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Theo! 👋</h1>
-<h3 align="center">Hobbyist pythoneer</h3>
+<h3 align="center">Hobbyist pythonista</h3>
 
 <p><br><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=theeoi&hide=stars&show_icons=true&theme=dracula&count_private=true&locale=en" alt="theeoi"/>
 </p>
@@ -7,7 +7,7 @@
 <p align="left" width="50%">
 🔭 I’m currently working on <b>my package for achieving recurring tasks in Notion</b>
 
-🌱 I’m currently learning **PiPy Packaging**
+🌱 I’m currently learning **about releasing software**
 
 👯 I’m looking to collaborate on **productivity workflow tools**
 
