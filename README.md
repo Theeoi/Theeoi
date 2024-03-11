@@ -1,30 +1,31 @@
 <h1 align="center">Hello there, I'm Theo! 👋</h1>
-<h3 align="center">Hobbyist pythonista</h3>
+<h3 align="center">Pythonista, Embedded SW Engineer and Web Developer</h3>
 
 <p><br><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=theeoi&hide=stars&show_icons=true&theme=dracula&count_private=true&locale=en" alt="theeoi"/>
 </p>
 
 <p align="left" width="50%">
-🔭 I’m currently working on <b>my package for achieving recurring tasks in Notion</b>
+🔭 I’m currently working on <b>a wifi connected smart lamp using an ESP32</b>.
 
-🌱 I’m currently learning **about releasing software**
+🌱 I’m currently learning **C in an embedded context**.
 
-👯 I’m looking to collaborate on **productivity workflow tools**
+👯 I’m looking to collaborate on **software to aid personal productivity**.
 
-📫 Reach me at **me@theodorblom.com**
+📫 Reach me at **me@theodorblom.com**.
 </p>
 
 <p><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=theeoi&show_icons=true&theme=dracula&locale=en&layout=compact&langs_count=6" alt="theeoi" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/theodorblom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theodorblom" height="30" width="40" /></a>
+<a href="https://www.threads.net/@theoalexanderb" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Threads_%28app%29_logo.svg" alt="theodorblom" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/theodor-blom-35498a133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theodor-blom-35498a133" height="30" width="40" /></a>
 </p>
 
 <br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,7 +37,6 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
