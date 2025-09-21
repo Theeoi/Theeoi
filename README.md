@@ -5,11 +5,11 @@
 </p>
 
 <p align="left" width="50%">
-🔭 I’m currently working on <b>a wifi connected smart lamp using an ESP32</b>.
+🔭 I’m currently working on <b>freshening up my personal website</b>.
 
-🌱 I’m currently learning **C in an embedded context**.
+🌱 I’m currently learning **best practices setting up VPS running Nginx and Gunicorn**.
 
-👯 I’m looking to collaborate on **software to aid personal productivity**.
+👯 I’m looking to collaborate on **simple github issues on software written in Python and/or C**. Know an issue that needs attention? Let me know!
 
 📫 Reach me at **me@theodorblom.com**.
 </p>
