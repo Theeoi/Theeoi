@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning **best practices setting up VPS running Nginx and Gunicorn**.
 
-👯 I’m looking to collaborate on **simple github issues on software written in Python and/or C**. Know an issue that needs attention? Let me know!
+👯 I’m looking to collaborate on **simple github issues on software written in Python and/or C**.<br>Know an issue that needs attention? Let me know!
 
 📫 Reach me at **me@theodorblom.com**.
 </p>
